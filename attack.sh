@@ -11,8 +11,8 @@ ku='\033[33;1m' #kuning
 clear
 echo $me"_________________________________________"
 echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"
-echo $e"|       BY : Mr.W3du5/Error404            |"
-echo $e"|Jangan Lupa Bernafas sayang:v |"
+echo $e"|       BY : Mr.W3du5/Error404           |"
+echo $e"|Jangan Lupa Bernafas sayang:v           |"
 echo $e"|sebelum Memulai Ddos bismillah dulu hehe|"
 echo $e"|         INDONYMOUS CYBER TEAM          |"
 echo $me"|<-------------------------------------->|"
