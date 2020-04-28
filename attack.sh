@@ -115,8 +115,18 @@ cd /sdcard/BloodsTools71/10Attack/5
 python2 arma.py
 fi
 
+if [$pil=11 ]
+then
+pkg update && pkg upgrade -y
+pkg install python2 -y
+pkg install python3 -y
+pkg install python -y
+pkg install git -y
+pip2 install mechanize
+pip2 install request 
+fi
 
-if [ $pil = 11 ]
+if [ $pil = 12 ]
 then
 clear
 echo $me"Terima Kasih sudh pakai Tools saya ^_^"
