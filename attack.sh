@@ -127,6 +127,16 @@ pkg install git -y
 pip2 install mechanize
 pip2 install request 
 
+if [$pil=11 ]
+then
+pkg update && pkg upgrade -y
+pkg install python2 -y
+pkg install python3 -y
+pkg install python -y
+pkg install git -y
+pip2 install mechanize
+pip2 install request 
+fi
 
 if [ $pil = 12 ]
 then
